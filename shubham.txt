@@ -2,5 +2,9 @@ original code
 chedchad kar di kisi c ne
 oye
 
+<<<<<<< HEAD
 
 pawan new commit
+=======
+lala
+>>>>>>> eb9ce5db912340acf73a0dec2d3a5012abc9f439
