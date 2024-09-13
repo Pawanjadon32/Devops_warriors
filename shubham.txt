@@ -9,6 +9,10 @@ naya code
 
 vineet ka doubt wala code
 
+<<<<<<< HEAD
 doubt clear ho gya
 
 aloo mota bhaalu
+=======
+chedchaad krke chla gya banda ek
+>>>>>>> 90b95cb2b027b25eddd74e2594bd8a5157e0a7e9
